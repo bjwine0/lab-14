@@ -6,9 +6,9 @@
 
 ##Start time: __1145 pm___
 
-##Finish time: _____
+##Finish time: ___1220__
 
-##Actual time needed to complete: _____
+##Actual time needed to complete: ___35 min__
 
 
 
